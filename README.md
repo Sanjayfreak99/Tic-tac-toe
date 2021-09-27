@@ -11,7 +11,7 @@
      <li>When all 9 squares are full, the game is over</li>
  </ol>
  <h1>Project Link(Output):<a href="https://boring-turing-5cb887.netlify.app/">Click me to see the Output</a></h1>
- <img href="tictac.gif>
+ <img src="tictac.gif>
 </body>
 </html>
 
